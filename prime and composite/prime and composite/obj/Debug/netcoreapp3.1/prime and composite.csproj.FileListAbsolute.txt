@@ -1,0 +1,14 @@
+C:\Users\nerim\OneDrive\Desktop\C sharp task\prime and composite\prime and composite\obj\Debug\netcoreapp3.1\prime and composite.csproj.AssemblyReference.cache
+C:\Users\nerim\OneDrive\Desktop\C sharp task\prime and composite\prime and composite\obj\Debug\netcoreapp3.1\prime and composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nerim\OneDrive\Desktop\C sharp task\prime and composite\prime and composite\obj\Debug\netcoreapp3.1\prime and composite.AssemblyInfoInputs.cache
+C:\Users\nerim\OneDrive\Desktop\C sharp task\prime and composite\prime and composite\obj\Debug\netcoreapp3.1\prime and composite.AssemblyInfo.cs
+C:\Users\nerim\OneDrive\Desktop\C sharp task\prime and composite\prime and composite\obj\Debug\netcoreapp3.1\prime and composite.csproj.CoreCompileInputs.cache
+C:\Users\nerim\OneDrive\Desktop\C sharp task\prime and composite\prime and composite\bin\Debug\netcoreapp3.1\prime and composite.exe
+C:\Users\nerim\OneDrive\Desktop\C sharp task\prime and composite\prime and composite\bin\Debug\netcoreapp3.1\prime and composite.deps.json
+C:\Users\nerim\OneDrive\Desktop\C sharp task\prime and composite\prime and composite\bin\Debug\netcoreapp3.1\prime and composite.runtimeconfig.json
+C:\Users\nerim\OneDrive\Desktop\C sharp task\prime and composite\prime and composite\bin\Debug\netcoreapp3.1\prime and composite.runtimeconfig.dev.json
+C:\Users\nerim\OneDrive\Desktop\C sharp task\prime and composite\prime and composite\bin\Debug\netcoreapp3.1\prime and composite.dll
+C:\Users\nerim\OneDrive\Desktop\C sharp task\prime and composite\prime and composite\bin\Debug\netcoreapp3.1\prime and composite.pdb
+C:\Users\nerim\OneDrive\Desktop\C sharp task\prime and composite\prime and composite\obj\Debug\netcoreapp3.1\prime and composite.dll
+C:\Users\nerim\OneDrive\Desktop\C sharp task\prime and composite\prime and composite\obj\Debug\netcoreapp3.1\prime and composite.pdb
+C:\Users\nerim\OneDrive\Desktop\C sharp task\prime and composite\prime and composite\obj\Debug\netcoreapp3.1\prime and composite.genruntimeconfig.cache
